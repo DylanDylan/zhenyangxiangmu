@@ -1,0 +1,55 @@
+/* CSS Document */
+.member_center_left{width:244px;height:auto;overflow:hidden;margin-top:-22px;}
+.member_center_left h3{width:184px;height:41px;background:url(../images/member_left_h3bg_03.jpg) no-repeat  5px 0px;padding:0 0 0 30px;font-size:15px;color:#613951;}
+.member_top{width:244px;height:35px;background:url(../images/member_top_03.png) no-repeat;}
+.member_center_left ul{width:184px;height:auto;overflow:hidden;background:url(../images/member_bg_06.png) repeat-y;padding:0 30px 0 30px;line-height:38px;}
+.member_center_left ul li{border-bottom:1px dashed #586c12;padding-left:70px;letter-spacing:5px;font-weight:bold;font-size:14px;background:url(../images/member_left_leave_07.png) no-repeat 25px 8px;cursor:pointer;}
+.member_center_left ul li a{color:#4d4d4d;}
+.member_bot{width:244px;height:21px;background:url(../images/member_bot_08.png) no-repeat;}
+
+.member_right{width:761px;height:auto;float:left;overflow:hidden;}
+.member_right h2{position:relative;width:761px;height:50px;background:url(../images/member_h2_line_06.png) no-repeat bottom;font-size:18px;color:#613951;line-height:50px;}
+.member_right .member_tit_right{position:absolute;right:0px;top:0px;font-size:12px;color:#4d4d4d;font-family:"宋体";font-weight:normal;}
+.member_right .member_tit{position:absolute;left:60px;top:0px;letter-spacing:5px;}
+
+/*当前积分*/
+.user_message{width:711px;height:auto;padding:25px 0 0 50px;}
+.user_message tr{height:35px;}
+.user_message b{color:#f00;font-weight:normal;}
+.number_table{width:581px;height:auto;margin:25px 80px 0 50px;background:#f2f8e4;text-align:center;}
+.number_table th{color:#678506;}
+
+/*快捷积分*/
+.fast_num{margin:0 auto;width:450px;overflow:hidden;padding:70px 0 0 0}
+.fast_num ul,.fast_num ul li{display:block;overflow:hidden;}
+.fast_num ul li{float:left;height:45px;line-height:45px;}
+.fast_num ul li span{float:left;height:45px;line-height:45px;}
+.quick_text{width:160px;text-align:right;}
+.quick_form_input{height:20px;width:200px;border:1px solid #bbdb48;line-height:20px;font-size:12px;+margin-top:3px;_margin-top:3px;}
+.quick_form_btu{padding-bottom:5px;width:88px;height:34px;background:url(../images/mem_but_bg_07.jpg) no-repeat;border:none;color:#fff;font-size:14px;font-family:"微软雅黑";cursor:pointer;}
+.result{width:100%;text-align:center;color:#5d9a2f;}
+
+/*积分记录*/
+.number_record{padding:70px 0 0 70px;}
+.number_rec_but{padding:30px 0 0 260px;}
+.number_record table{width:641px;height:auto;text-align:center;margin-top:40px;border:1px solid #929b26;}
+.number_record table th{height:30px;color:#fff;background:#669b0a;}
+.pages{width:100%;text-align:center;padding:30px 0;}
+.pages a{margin:0 3px;color:#4d4d4d;}
+
+/*最新活动*/
+.late_activity{padding:70px 30px 0 30px;}
+.late_activity ul{width:651px;}
+.late_activity ul li{width:651px;height:45px;border-bottom:1px dashed #ccc;line-height:45px;}
+.late_activity ul li a:link,.late_activity ul li a:visited{color:#66a128;font-size:14px;}
+.late_activity ul li a:hover{color:#9ec9eb;}
+
+/*修改资料*/
+.ModifyTheData{padding:70px 30px 0 30px;}
+.ModifyTheData{width:390px;overflow:hidden;margin:auto;}
+.ModifyTheData li{display:block;height:40px;line-height:40px;float:left;width:100%;}
+.ModifyTheDataLeft,.ModifyTheDataRight{float:left;height:40px;}
+.ModifyTheDataLeft{width:100px;text-align:center;}
+.ModifyTheDataRight{width:290px;}
+.ModifyTheDataInput{width:200px;height:20px;border:1px solid #bbdb48;+margin-top:9px;}
+.ModifyTheDataButton{width:97px;height:30px;border:0;background:url(../Images/Member/button.jpg) no-repeat;line-height:30px;text-align:center;font-size:15px;font-weight:bold;color:#ffffff;}

@@ -1,0 +1,63 @@
+/* CSS Document */
+.member_right{width:761px;height:auto;float:left;overflow:hidden;}
+.member_right h2{position:relative;width:761px;height:50px;background:url(../images/member_h2_line_06.png) no-repeat bottom;font-size:18px;color:#613951;line-height:50px;}
+.member_tit_right{position:absolute;right:0px;top:0px;font-size:12px;color:#4d4d4d;font-family:"宋体";font-weight:normal;}
+.member_right .member_tit{position:absolute;left:60px;top:0px;letter-spacing:5px;}
+
+.change_mall_con{clear:both;width:761px;height:auto;margin:0 auto;}
+.change_mall_con h3{width:751px;height:20px;border-bottom:1px solid #66a128;font-size:14px;background:url(../images/h3_bg_03.png) no-repeat;padding:5px 0 0 10px;position:relative;}
+.change_mall_con h3 a{color:#fff;}
+.change_mall_con h3 span{text-align:right;position:absolute;right:0px;top:0px;}
+.change_mall_con{width:751px;height:auto;overflow:hidden;}
+.change_mall_con ul{float:left;width:691px;height:auto;background:url(../images/change_bot_11.jpg) no-repeat bottom center;padding:25px 25px 0px 25px;margin:0 auto;}
+.change_mall_con ul li{float:left;width:115px;height:225px;overflow:hidden;text-align:center;padding:0 11px 0 11px;}
+.change_mall_con ul li span{display:block;width:115px;height:105px;border:1px solid #00521c;}
+.change_mall_con ul li span img{height:103px;}
+.change_mall_con ul li h4 a:link,.present_change_con ul li h4 a:visited{display:block;width:117px;height:35px;color:#4d4d4d;font-size:12px;font-weight:normal;}
+.change_mall_con ul li h4 a:hover{color:#00521c;}
+.change_mall_con ul li p{font-size:12px;color:#00521c;font-weight:normal;width:138px;height:35px;}
+.change_bt{display:block;width:65px;height:24px;background:url(../images/change_bt_12.png) no-repeat;color:#fff;margin:0 26px;font-size:14px;line-height:24px;}
+.paging{width:95%;margin:auto;text-align:center;padding:20px 0;}
+.paging a{display:inline-block;border:1px solid #CCC;height:15px;line-height:15px;padding:0 5px;font-size:12px;overflow:hidden;color:#4d4d4d;}
+
+/*步骤1*/
+.CashFlowRightBoxContent{width:90%;margin:auto;padding:20px 0;}
+.GiftImformation{width:100%;overflow:hidden;}
+.GiftImformationImg,.GiftImformationRight{float:left;overflow:hidden;}
+.GiftImformationImg{width:200px;text-align:center;}
+.GiftImformationImg img{width:150px;border:1px solid #CCC;}
+.GiftImformationRight{width:380px;padding-left:60px;}
+.GiftImformationRight p{display:block;height:30px;width:100%;line-height:30px;font-size:12px;}
+.GiftImformationRight p span,.GiftImformationRight p font,.GiftImformationRight p em{font-size:12px;}
+.GiftImformationRight p em{padding-left:10px;}
+.Number{width:30px;height:17px;border:1px solid #CCC;line-height:17px;}
+.GiftDesTit{height:54px;width:100%;line-height:54px;background:url(../images/ico1.jpg) no-repeat;border-bottom:1px dashed #CCC;}
+.GiftDesTit span{padding-left:58px;font-size:20px;color:#333;font-weight:bold;}
+.GiftDesTitContent{width:100%;padding:30px 0;}
+.next,.return,.submit{width:64px;height:21px;float:left;margin-right:30px;border:0;background:url(../images/mem_but_bg_07.jpg) no-repeat;line-height:21px;text-align:center;color:#ffffff;font-size:12px;}
+.submit{cursor:pointer;}
+
+/*步骤2*/
+.Fill_In{width:100%;overflow:hidden;clear:both;padding:20px 0;}
+.Fill_In h2{display:block;height:30px;line-height:30px;font-size:18px;font-weight:bold;}
+.Fill_In ul,.Fill_In ul li{display:block;overflow:hidden;width:100%;}
+.Fill_In ul li{padding-top:15px;}
+.Fill_InText,.Fill_InForm{display:block;height:30px;line-height:30px;float:left;font-size:12px;}
+.Fill_InText{width:30%;}
+.Fill_InForm{width:70%;text-align:left;}
+.Fill_In_input{height:20px;width:95%;line-height:20px;border:1px solid #bada48;}
+
+/*步骤4*/
+.ForSuccessfulBox{width:630px;margin:auto;padding:40px 0px 20px 0px;overflow:hidden;}
+.ForSuccessfulBox h1 img{vertical-align:middle;}
+.ForSuccessfulBox h1{display:block;width:100%;overflow:hidden;text-align:center;font-size:20px;color:#4d4d4d;}
+.ForSuccessfulTexts{width:628px;padding:15px 0;margin:15px 0;border:1px solid #ff9051;backgournd-color:#fffce9;text-align:center;background:#fffce9;}
+.ForSuccessfulTexts p{color:#4d4d4d;font-size:12px;}
+.ForSuccessfulLinks{width:100%;padding:15px 0;}
+.ForSuccessfulLinks li{display:block;padding-top:10px;font-size:12px;}
+.Cash_flow{width:90%;margin:auto;margin:auto;overflow:hidden;padding:30px 0;}
+.Cash_flow ul,.Cash_flow ul li{display:block;overflow:hidden;}
+.Cash_flow ul li{padding-top:20px;}
+.Cash_flow ul li h2{font-size:18px;font-weight:bold;color:#333;}
+.ForSuccessfulLinks ul li a:link,.ForSuccessfulLinks ul li a:visited{color:#4d4d4d;}
+.ForSuccessfulLinks ul li a:hover{text-decoration:underline;}

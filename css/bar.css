@@ -1,0 +1,49 @@
+/* CSS Document */
+.bar{width:1020px;height:auto;margin:0 auto;}
+.bar_top{width:1020px;height:auto;background:#f5f5f3;border-bottom:1px dashed #95be21;}
+.bar_top_left,.bar_top_title,.bar_top_right{float:left;}
+.bar_top_title{position:relative;width:958px;height:31px;background:url(../images/bar_h3_img_06.png) no-repeat 10px 5px #95be21;line-height:31px;padding-left:40px;font-size:14px;color:#fff;}
+.bar_top_title span{position:absolute;right:0;top:0;}
+.bar_top_title span a{color:#fff;}
+.bar_top_con{position:relative;clear:both;width:1005px;height:50px;line-height:50px;padding-left:15px;}
+.post_bar{position:absolute;right:5px;top:8px;width:87px;height:32px;background:url(../images/bar_but_bg_07.png) no-repeat;border:none;color:#fff;font-family:Microsoft Yahei;cursor:pointer;}
+
+.bar_list{width:100%;height:auto;margin-top:30px;background:#f5f5f3;border-bottom:1px dashed #95be21;}
+.bar_list table{width:100%;height:auto;}
+.bar_list table td{width:100%;height:63px;border-bottom:1px solid #cfcfcf;padding:0 10px;}
+.bar_tit{width:70%;height:63px;}
+.bar_other{width:15%;height:63px;}
+.paging{width:95%;margin:auto;text-align:center;padding:20px 0;}
+.paging a{display:inline-block;border:1px solid #CCC;height:15px;line-height:15px;padding:0 5px;font-size:12px;overflow:hidden;color:#4d4d4d;}
+
+/*回复贴子*/
+.ContanctUsBox{width:990px;margin:auto;}
+.ContanctUsBoxContent{width:99%;}
+.BBS_contant_reply,.BBS_contant_Titles,.BBS_theme_top{width:978px;}
+.BBS_theme_top{height:30px;}
+.BBS_theme_top span{display:block;float:left;}
+.BBS_theme_top_left{height:30px;width:170px;line-height:30px;background-color:#d2e7f1;}
+.BBS_theme_top_left font{display:block;width:75px;height:30px;line-height:30px;float:left;padding-left:10px;}
+.BBS_theme_top_left font b{color:#F30;}
+.BBS_theme_top_right{height:30px;width:798px;float:left;line-height:30px;background-color:#eaf1f7;padding-left:10px;}
+.BBS_theme_bottom{width:978px;background-color:#fefefe;overflow:hidden;}
+.BBS_theme_bottom_left,.BBS_theme_bottom_rights{float:left;}
+.BBS_theme_bottom_left{width:170px;background-color:#eaf1f7;}
+.BBS_theme_bottom_left div tt font{text-align:left;}
+.BBS_theme_bottom_left div tt font b{font-weight:normal;}
+.BBS_theme_bottom_rights{width:783px;padding:10px 0px 10px 15px;line-height:30px;}
+.BBS_theme_bottom_left div{width:120px;margin:auto;padding-bottom:10px;}
+.BBS_theme_bottom_left div span,.BBS_theme_bottom_left div font{display:block;padding-top:5px;padding-bottom:5px;}
+.BBS_theme_bottom_left div font{text-align:center;}
+.BBS_theme_bottom_left div font strong{color:blue;}
+.BBS_theme_bottom_left div span{width:120px;height:112px;}
+
+.reply{display:block;width:978px;clear:both;}
+.reply_top{width:978px;height:6px;background:url(../Images/BBs/BBS_list_bottombg.png) no-repeat;}
+.reply_titile2{height:30px;line-height:30px;clear:both;border-bottom:1px dashed #CCC;}
+.Pub_reply{clear:both;height:220px;width:978px;border:1px solid #ccc;}
+.Pub_reply_left{width:170px;height:220px;background-color:#e5edf2;float:left;}
+.Pub_reply_right{width:788px;height:200px;float:left;padding:10px 0px 10px 20px;}
+.Pub_reply_right textarea{padding:3px;}
+.post_bar_retu{width:87px;height:32px;background:url(../images/bar_but_bg_07.png) no-repeat;border:none;color:#fff;font-family:Microsoft Yahei;cursor:pointer;}
+
